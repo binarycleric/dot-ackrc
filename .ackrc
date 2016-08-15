@@ -5,8 +5,8 @@
 --smart-case
 # colors
 --color-filename=blue
---color-lineno=yellow
---color-match=white
+--color-lineno=green
+--color-match=yellow
 # show the context of the found item
 --context
 # Other file types we want to search
